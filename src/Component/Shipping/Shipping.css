@@ -1,0 +1,22 @@
+.formStyle{
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    width: 75%;
+}
+.form{
+    text-align: center;
+    margin: 80px 0px 0px 0px;
+}
+.parentForm{
+    display: flex;
+    justify-content: center;
+}
+.parentForm2{
+    width: 75%;
+}
+.handleSubmitShipping{
+    padding: 20px 0px;
+    width: 30%;
+    font-size: 20px;
+}
